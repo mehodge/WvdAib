@@ -80,7 +80,6 @@
                         "runElevated": true,
                         "name": "RunPoShInstall",
                         "scriptUri": "<URI to PowerShell Script>"
-                        ]
                     },
                         
                     {
